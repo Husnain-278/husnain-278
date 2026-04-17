@@ -1,14 +1,14 @@
 # Hey there! 👋 I'm Husnain
 
-**Django Backend Developer | Backend Systems Architect | API Enthusiast**
+**Python Developer | Django Backend Developer | Backend Systems Architect | API Enthusiast**
 
-I'm a passionate **Django backend developer** with a focus on building scalable, maintainable, and production-ready applications. I specialize in crafting robust APIs, designing clean system architecture, and solving complex backend problems.
+I'm a passionate **Python Django backend developer** with a focus on building scalable, maintainable, and production-ready applications. I specialize in crafting robust APIs, designing clean system architecture, and solving complex backend problems.
 
 ---
 
 ## 🎯 About Me
 
-- 💻 **Role:** Django Backend Developer & Aspiring Backend Engineer
+- 💻 **Role:** Python Django Backend Developer & Aspiring Backend Engineer
 - 🏆 **Goal:** Master Django + DRF + React stack and build enterprise-level applications
 - 🔥 **Passion:** Backend systems, RESTful APIs, scalability, and real-world problem solving
 - 📚 **Currently Learning:** Advanced Django patterns, Clean Architecture, WebSockets, Celery, and Redis
@@ -23,12 +23,14 @@ I'm a passionate **Django backend developer** with a focus on building scalable,
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django%20REST-FF9900?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL]
 
 **Frontend & Integration:**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS]
 
 **Tools & Version Control:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -38,7 +40,7 @@ I'm a passionate **Django backend developer** with a focus on building scalable,
 
 ## 🚀 Featured Projects
 
-### 1. **Carvo** - Car Rental System
+###   **Carvo** - Car Rental System
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat)
 
 A comprehensive car rental platform with full-stack implementation combining Django + DRF backend and React frontend. Features include JWT-based authentication, real-time booking system, payment integration, and admin dashboard.
@@ -47,7 +49,7 @@ A comprehensive car rental platform with full-stack implementation combining Dja
 
 ---
 
-### 2. **SmartCart** - E-Commerce Platform
+###   **SmartCart** - E-Commerce Platform
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat) ![REST API](https://img.shields.io/badge/-REST%20API-FF9900?style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat)
 
 A feature-rich e-commerce backend with inventory management, order processing, and payment handling. Implements advanced filtering, wishlist functionality, and analytics. Designed with production-level scalability in mind.
@@ -56,7 +58,7 @@ A feature-rich e-commerce backend with inventory management, order processing, a
 
 ---
 
-### 3. **Advance Ecommerce** - Enterprise E-Commerce System
+###   **Advance Ecommerce** - Enterprise E-Commerce System
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat) ![DRF](https://img.shields.io/badge/-DRF-FF9900?style=flat) ![Advanced Architecture](https://img.shields.io/badge/-Advanced%20Architecture-success?style=flat)
 
 An advanced e-commerce backend demonstrating enterprise-level system design with complex APIs, multi-vendor support, and scalable database architecture. Features include order management, user roles, and comprehensive admin functionality.
@@ -65,7 +67,7 @@ An advanced e-commerce backend demonstrating enterprise-level system design with
 
 ---
 
-### 4. **NoteApp** - Notes Management Application
+###   **NoteApp** - Notes Management Application
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat) ![REST API](https://img.shields.io/badge/-REST%20API-FF9900?style=flat) ![Authentication](https://img.shields.io/badge/-Authentication-blue?style=flat)
 
 A complete notes management system with user authentication, CRUD operations, and secure data storage. Demonstrates clean backend architecture, proper API design, and database relationships.
@@ -74,7 +76,7 @@ A complete notes management system with user authentication, CRUD operations, an
 
 ---
 
-### 5. **DailyBlogs** - Blog Platform with Comments
+###   **DailyBlogs** - Blog Platform with Comments
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat) ![Comments System](https://img.shields.io/badge/-Comments%20System-blue?style=flat) ![Image Handling](https://img.shields.io/badge/-Image%20Handling-yellowgreen?style=flat)
 
 A full-featured blogging backend with slug-based URL routing, comment system, image handling, and user authentication. Implements best practices for content management and user engagement.
@@ -83,7 +85,6 @@ A full-featured blogging backend with slug-based URL routing, comment system, im
 
 ---
 
-## 📚 Additional Projects
 
 ### EventHub - Event Management Platform
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat) ![Event Management](https://img.shields.io/badge/-Event%20Management-success?style=flat)
@@ -120,26 +121,13 @@ Financial data analysis and prediction platform using modern web technologies.
 
 ---
 
-## 🎓 Learning Path & Goals
-
-- ✅ Django & Django REST Framework fundamentals
-- ✅ RESTful API design and best practices
-- 📖 Advanced Django patterns and optimization
-- 📖 Clean Architecture principles
-- 📖 WebSockets and real-time applications
-- 📖 Celery and task queues
-- 📖 Redis caching and optimization
-- 📖 Microservices architecture
-- 📖 Deployment and DevOps basics
-
----
 
 ## 🤝 Connect With Me
 
 I'm always open to discussing backend architecture, APIs, and collaborative projects. Feel free to reach out!
 
-📧 **Email:** [your.email@example.com](mailto:your.email@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/husnain-278](https://linkedin.com/in/husnain-278)  
+📧 **Email:** [husnain327878@gmail.com](mailto:husnain327878@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/husnain-278](https://linkedin.com/in/husnain)  
 🐙 **GitHub:** [github.com/Husnain-278](https://github.com/Husnain-278)
 
 ---
